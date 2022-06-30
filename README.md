@@ -1,4 +1,4 @@
-<h1 align = "center">Bem vindo(a) :)</h1>
+<h1 align = "center">Welcome :)</h1>
 <div align="center" style="display: inline_block">
       <img align="center" alt="Artie-Hello" height="277" width="498" src="https://c.tenor.com/6Gr-6QEvE7EAAAAd/school-live-cute.gif">
 </div>
