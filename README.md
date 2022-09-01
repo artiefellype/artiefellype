@@ -1,18 +1,17 @@
 <h1 align = "center">Welcome :)</h1>
 <div align="center" style="display: inline_block">
-      <img align="center" alt="Artie-Hello" height="277" width="498" src="https://c.tenor.com/6Gr-6QEvE7EAAAAd/school-live-cute.gif">
+      <img align="center" alt="Artie-Hello" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"
 </div>
 <div align="center" style="display: inline_block">
   <h1></h1>
 </div>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/artiefellype">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artiefellype&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiefellype&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artiefellype&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiefellype&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Artie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Artie-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Artie-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Artie-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Artie-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
