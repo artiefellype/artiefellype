@@ -5,10 +5,16 @@
 <div align="center" style="display: inline_block">
   <h1></h1>
 </div>
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/artiefellype">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artiefellype&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+<div align="center">
+    <a href="https://github.com/artiefellype">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=artiefellype&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+     </a>
 </div>
+<div align="center">
+  <a href="https://github.com/artiefellype">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artiefellype&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>  </a>   
+</div>
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Artie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Artie-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
