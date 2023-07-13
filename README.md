@@ -9,11 +9,10 @@
 <div align="center" style="display: inline_block">
   <h1></h1>
 </div>
-
 <div align="center">
   <a href="https://github.com/artiefellype">
-  <img height="180em" src="https://readme-stats.trle5.xyz/api?username=artiefellype&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>  </a> 
-  <img height="180em" src="https://readme-stats.trle5.xyz/api/top-langs/?username=artiefellype&layout=compact&langs_count=7&theme=tokyonight&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artiefellype&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>  </a> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiefellype&layout=compact&langs_count=7&theme=tokyonight&count_private=false"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
