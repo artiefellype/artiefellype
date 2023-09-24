@@ -15,12 +15,13 @@
 
 <p align="left">
   Seja bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor front-end
-  apaixonado por criar experiências incríveis. 💻✨ 
-</p>
-<p align="left">
+  apaixonado por criar experiências incríveis. 💻✨ <br>
   Aqui, você encontrará meu mundo de código, repleto de projetos emocionantes e
   inovações que vão além das telas e dos servidores! 🚀
 </p>
+
+  
+
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -160,9 +161,13 @@
   />
 </p>
 
-<h1></h1>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
-<div align="center" style="display: inline_block">
+## Vamos interagir! 💻
+
+<div align="left" style="display: inline_block">
   <a href="https://instagram.com/" target="_blank"
     ><img
       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
