@@ -165,9 +165,8 @@
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
-## Vamos interagir! 💻
 
-<div align="left" style="display: inline_block">
+<div align="center" style="display: inline_block">
   <a href="https://instagram.com/" target="_blank"
     ><img
       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
