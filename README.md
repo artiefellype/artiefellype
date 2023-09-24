@@ -1,16 +1,17 @@
 ## 👋 Hello World! 👨‍💻
 
-<img 
-  align="right" 
-  src="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" 
-  height="220" 
-  width="20" />
+
 <img
   align="right"
   src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif"
   height="220"
   width="230"
 />
+<img 
+  align="right" 
+  src="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" 
+  height="220" 
+  width="15" />
 
 <p align="left">
   Seja bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor front-end
