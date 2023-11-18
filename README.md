@@ -14,7 +14,7 @@
   width="15" />
 
 <p align="left">
-  Seja bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor front-end
+  Seja bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor web
   apaixonado por criar experiências incríveis. 💻✨ <br>
   Aqui, você encontrará meu mundo de código, repleto de projetos emocionantes e
   inovações que vão além das telas e dos servidores! 🚀
