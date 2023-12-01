@@ -190,7 +190,7 @@
   <a href="https://github.com/artiefellype">
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=artiefellype&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=artiefellype&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"
     />
   </a>
   <img
