@@ -1,4 +1,4 @@
-## 👋 Hello World! 👨‍💻
+## 👋 Eae
 
 
 <img
@@ -14,10 +14,10 @@
   width="15" />
 
 <p align="left">
-  Seja bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor web
+  Chega mais! <br>
+  Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor
   apaixonado por criar experiências incríveis. 💻✨ <br>
-  Aqui, você encontrará meu mundo de código, repleto de projetos emocionantes e
-  inovações que vão além das telas e dos servidores! 🚀
+  Aqui estão alguns dos meus projetos mais desafiadores dentre diversas outras coisinhas. Espero que aqui você encontre algo que desperte seu interesse! 🚀
 </p>
 
   
