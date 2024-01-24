@@ -1,6 +1,5 @@
 ## 👋 Eae
 
-
 <img
   align="right"
   src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif"
@@ -18,10 +17,8 @@
   Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor
   apaixonado por criar experiências incríveis. 💻✨ <br>
   Aqui estão alguns dos meus projetos mais desafiadores dentre diversas outras coisinhas. Espero que aqui você encontre algo que desperte seu interesse! 🚀
+ 
 </p>
-
-  
-
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -30,6 +27,7 @@
 <div>&nbsp;</div>
 
 ## As ferramentas que uso para codar 🛠️
+
 <p>
   <img
     alt="React"
@@ -165,7 +163,6 @@
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
-
 <div align="center" style="display: inline_block">
   <a href="https://instagram.com/" target="_blank"
     ><img
@@ -177,11 +174,14 @@
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"
       target="_blank"
   /></a>
-  <a href="https://www.linkedin.com/in/arthur-felipe-b5b025216" target="_blank"
+  <a href="https://www.linkedin.com/in/arthur-felipe-sde" target="_blank"
     ><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"
   /></a>
+</div>
+<div align="center" style="display: inline_block">
+   <img src="https://komarev.com/ghpvc/?username=artiefellype&label=profile%20views&color=0e75b6&style=flat" alt="artiefellype" />
 </div>
 
 <h1></h1>
