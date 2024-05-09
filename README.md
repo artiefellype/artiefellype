@@ -15,13 +15,11 @@
 <p align="left">
   Chega mais! <br>
   Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor
-  apaixonado por criar experiências incríveis. 💻✨ <br>
+  apaixonado por criar experiências incríveis.
   Aqui estão alguns dos meus projetos mais desafiadores dentre diversas outras coisinhas. Espero que aqui você encontre algo que desperte seu interesse! 🚀
  
 </p>
 
-<div>&nbsp;</div>
-<div>&nbsp;</div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
