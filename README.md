@@ -195,7 +195,7 @@
   </a>
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiefellype&layout=compact&langs_count=7&theme=tokyonight&count_private=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiefellype&layout=compact&langs_count=7&theme=tokyonight&count_private=true"
   />
 </div>
 
