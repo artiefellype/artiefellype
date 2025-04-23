@@ -13,18 +13,15 @@
   width="15" />
 
 <p align="left">
-  Chega mais! <br>
-  Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor
-  apaixonado por criar experiências incríveis.
-  Aqui estão alguns dos meus projetos mais desafiadores dentre diversas outras coisinhas. Espero que aqui você encontre algo que desperte seu interesse! 🚀
- 
+  Hey! <br>
+  Bem-vindo(a) ao meu cafofo de código <br>
+  Fica à vontade pra fuçar. 🚀
 </p>
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
-## As ferramentas que uso para codar 🛠️
 
 <p>
   <img
