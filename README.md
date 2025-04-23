@@ -22,7 +22,7 @@
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
-
+## Ferramentas apreciadas aqui ✅
 <p>
   <img
     alt="React"
@@ -154,8 +154,7 @@
   />
 </p>
 
-<div>&nbsp;</div>
-<div>&nbsp;</div>
+# &nbsp;
 <div>&nbsp;</div>
 
 <div align="center" style="display: inline_block">
