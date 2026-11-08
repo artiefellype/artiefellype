@@ -15,11 +15,6 @@
 </picture>
 
 <div align="center">
-  <img
-    src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif"
-    width="180"
-    alt="Animação de boas-vindas"
-  />
 
   <picture>
     <source
