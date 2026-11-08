@@ -18,15 +18,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=C%C3%B3digo%2C+caf%C3%A9+e+curiosidade;Construindo+uma+coisa+de+cada+vez;Sempre+fu%C3%A7ando+alguma+tecnologia"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Meu+hist%C3%B3rico+de+busca+sabe+demais;Funciona+na+minha+m%C3%A1quina;Fazendo+enquanto+aprendo"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=C%C3%B3digo%2C+caf%C3%A9+e+curiosidade;Construindo+uma+coisa+de+cada+vez;Sempre+fu%C3%A7ando+alguma+tecnologia"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Meu+hist%C3%B3rico+de+busca+sabe+demais;Funciona+na+minha+m%C3%A1quina;Fazendo+enquanto+aprendo"
     />
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=C%C3%B3digo%2C+caf%C3%A9+e+curiosidade;Construindo+uma+coisa+de+cada+vez;Sempre+fu%C3%A7ando+alguma+tecnologia"
-      alt="Código, café e curiosidade. Construindo uma coisa de cada vez."
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Meu+hist%C3%B3rico+de+busca+sabe+demais;Funciona+na+minha+m%C3%A1quina;Fazendo+enquanto+aprendo"
+      alt="Meu histórico de busca sabe demais. Funciona na minha máquina. Fazendo enquanto aprendo."
     />
   </picture>
 
