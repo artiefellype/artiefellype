@@ -15,7 +15,6 @@
 </picture>
 
 <div align="center">
-
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -63,7 +62,7 @@
   />
 </div>
 
-## 💻 O que você vai encontrar por aqui
+---
 
 <div align="center">
   <img
@@ -78,7 +77,7 @@
   <em>"só vou testar uma coisinha"</em>.
 </p>
 
-## 🧰 Ferramentas apreciadas por aqui
+---
 
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-45B8D8?style=flat-square&amp;logo=react&amp;logoColor=white" />
@@ -110,7 +109,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=ubuntu&amp;logoColor=white" />
 </p>
 
-## 📊 Um pouco de números
+---
 
 <picture>
   <source
