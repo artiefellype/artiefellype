@@ -1,179 +1,150 @@
-## 👋 Eae
-
-<img
-  align="right"
-  src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif"
-  height="15%"
-  width="20%"
-/>
-<img 
-  align="right" 
-  src="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" 
-  height="40%" 
-  width="15" />
-
-<p align="left">
-  Hey! <br>
-  Bem-vindo(a) ao meu cafofo de código <br>
-  Fica à vontade pra fuçar. 🚀
-</p>
-
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-
-## Ferramentas apreciadas aqui ✅
-<p>
-  <img
-    alt="React"
-    src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117%2C50:161B22%2C100:30363D&amp;height=120&amp;section=header"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFFFFF%2C50:F6F8FA%2C100:D0D7DE&amp;height=120&amp;section=header"
   />
   <img
-    alt="Next"
-    src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFFFFF,50:F6F8FA,100:D0D7DE&amp;height=120&amp;section=header"
+    width="100%"
+    alt="Faixa decorativa no tema do GitHub"
   />
-  <img
-    alt="TypeScript"
-    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
-  />
-  <img
-    alt="Java"
-    src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"
-  />
-  <img
-    alt="JavaScript"
-    src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"
-  />
-  <img
-    alt="Kotlin"
-    src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white"
-  />
-  <img
-    alt="Tailwindcss"
-    src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"
-  />
-  <img
-    alt="Insomnia"
-    src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white"
-  />
-  <img
-    alt="Docker"
-    src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"
-  />
-  <img
-    alt="redux"
-    src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
-  />
-  <img
-    alt="Sass"
-    src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"
-  />
-  <img
-    alt="Styled Components"
-    src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white"
-  />
-  <img
-    alt="git"
-    src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"
-  />
-  <img
-    alt="npm"
-    src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"
-  />
-  <img
-    alt="Prettier"
-    src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"
-  />
-   <img
-    alt="Figma"
-    src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"
-  />
-  <img
-    alt="MongoDB"
-    src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
-  />
-  <img
-    alt="Nodejs"
-    src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
-  />
-  <img
-    alt="Postgres"
-    src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"
-  />
-  <img
-    alt="GraphQL"
-    src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"
-  />
-  <img
-    alt="Express"
-    src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"
-  />
-  <img
-    alt="Firebase"
-    src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase"
-  />
-  <img
-    alt="Vercel"
-    src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"
-  />
-  <img
-    alt="JQuery"
-    src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white"
-  />
-  <img
-    alt="Ubuntu"
-    src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"
-  />
-  <img
-    alt="Prisma"
-    src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white"
-  />
-  <img
-    alt="Jest"
-    src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white"
-  />
-</p>
-
-# &nbsp;
-<div>&nbsp;</div>
-
-<div align="center" style="display: inline_block">
-  <a href="https://instagram.com/" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      target="_blank"
-  /></a>
-  <a href="mailto:arthurfellype21@gmail.com"
-    ><img
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"
-      target="_blank"
-  /></a>
-  <a href="https://www.linkedin.com/in/arthur-felipe-sde" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
-  /></a>
-</div>
-<div align="center" style="display: inline_block">
-   <img src="https://komarev.com/ghpvc/?username=artiefellype&label=profile%20views&color=0e75b6&style=flat" alt="artiefellype" />
-</div>
-
-<h1></h1>
+</picture>
 
 <div align="center">
-  <a href="https://github.com/artiefellype">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=artiefellype&show_icons=true&theme=tokyonight&count_private=true"
-    />
-  </a>
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiefellype&layout=compact&langs_count=7&theme=tokyonight&count_private=true"
+    src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif"
+    width="180"
+    alt="Animação de boas-vindas"
+  />
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=C%C3%B3digo%2C+caf%C3%A9+e+curiosidade;Construindo+uma+coisa+de+cada+vez;Sempre+fu%C3%A7ando+alguma+tecnologia"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=C%C3%B3digo%2C+caf%C3%A9+e+curiosidade;Construindo+uma+coisa+de+cada+vez;Sempre+fu%C3%A7ando+alguma+tecnologia"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=C%C3%B3digo%2C+caf%C3%A9+e+curiosidade;Construindo+uma+coisa+de+cada+vez;Sempre+fu%C3%A7ando+alguma+tecnologia"
+      alt="Código, café e curiosidade. Construindo uma coisa de cada vez."
+    />
+  </picture>
+
+  <p>
+    Bem-vindo(a) ao meu cafofo de código.<br />
+    Fica à vontade pra fuçar. 🚀
+  </p>
+
+  <p>
+    <a href="mailto:arthurfellype21@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+        alt="Enviar um e-mail"
+      />
+    </a>
+    <a href="https://www.linkedin.com/in/arthur-felipe-sde">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+        alt="Perfil no LinkedIn"
+      />
+    </a>
+    <a href="https://github.com/artiefellype">
+      <img
+        src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+        alt="Perfil no GitHub"
+      />
+    </a>
+  </p>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=artiefellype&amp;label=Visitas+ao+perfil&amp;color=0969DA&amp;style=flat"
+    alt="Contador de visitas ao perfil"
   />
 </div>
 
-<img
-  src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"
-  width="100%"
-/>
+## 💻 O que você vai encontrar por aqui
+
+<div align="center">
+  <img
+    src="https://media.giphy.com/media/l3vRmVv5P01I5NDAA/giphy.gif"
+    width="420"
+    alt="Ed, de Cowboy Bebop, usando um computador"
+  />
+</div>
+
+<p align="center">
+  Projetos web, automação, robótica e uns experimentos que começam com<br />
+  <em>"só vou testar uma coisinha"</em>.
+</p>
+
+## 🧰 Ferramentas apreciadas por aqui
+
+<p align="left">
+  <img alt="React" src="https://img.shields.io/badge/React-45B8D8?style=flat-square&amp;logo=react&amp;logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=next.js&amp;logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&amp;logo=sass&amp;logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&amp;logo=styled-components&amp;logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-404D59?style=flat-square&amp;logo=express&amp;logoColor=61DAFB" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&amp;logo=graphql&amp;logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&amp;logo=prisma&amp;logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&amp;logo=mongodb&amp;logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&amp;logo=firebase&amp;logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-46A2F1?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&amp;logo=insomnia&amp;logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&amp;logo=jest&amp;logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&amp;logo=prettier&amp;logoColor=black" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=ubuntu&amp;logoColor=white" />
+</p>
+
+## 📊 Um pouco de números
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artiefellype&amp;theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artiefellype&amp;theme=github"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artiefellype&amp;theme=github"
+    width="100%"
+    alt="Resumo de contribuições no GitHub"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117%2C50:161B22%2C100:30363D&amp;height=100&amp;section=footer"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFFFFF%2C50:F6F8FA%2C100:D0D7DE&amp;height=100&amp;section=footer"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFFFFF,50:F6F8FA,100:D0D7DE&amp;height=100&amp;section=footer"
+    width="100%"
+    alt="Faixa decorativa no tema do GitHub"
+  />
+</picture>
